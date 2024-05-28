@@ -1,3 +1,3 @@
-# --MusicPlayerJS
+# --MusicPlayerJS--;)
 
-Made a Music player with javascript
+Made a Music player with html, css and javascript.
